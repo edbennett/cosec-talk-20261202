@@ -311,6 +311,8 @@ using existing workflow management tooling makes it much easier to do this effic
 
 -
 
+## Independent verification
+
 [![CodeCheck](./images/codecheck_logo.svg) <!-- .element height="300px" -->](https://codecheck.org.uk)
 
 Notes:
@@ -324,19 +326,9 @@ match those that will be in the corresponding paper.
 
 -
 
-<div style="width: 40%; float: left;">
-
-* ✅
-* ✅
-* ✅
-
-</div>
-
-<div style="width: 40%; float: right;">
+## Use checklists
 
 ![Screen shot of Appendix A of version 0.2.0 of the guide, available on GitHub](./images/checklist.png) <!-- .element height="600px" -->
-
-</div>
 
 Notes:
 Check lists are an important technique
