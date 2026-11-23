@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600">
+<style>text{font-family:'Futura';font-weight:normal;font-style:normal;}</style>
+<text transform="translate(117,507)" font-size="254" style="fill:rgb(250, 5, 0)">Chroma</text>
+<text transform="translate(146,226)" font-size="212" style="fill:rgb(188, 67, 0)">ADerrors</text>
+<text transform="translate(1045,411)" font-size="212" style="fill:rgb(30, 0, 225)">jl</text>
+<text transform="translate(511,317)" font-size="116" style="fill:rgb(212, 43, 0)">LePage</text>
+<text transform="translate(718,77)" font-size="91" style="fill:rgb(136, 0, 119)">gplepage</text>
+<text transform="translate(41,285)" font-size="68" style="fill:rgb(184, 0, 71)">taunt</text>
+<text transform="translate(440,67)" font-size="68" style="fill:rgb(100, 155, 0)">MCMC</text>
+<text transform="translate(98,548)" font-size="68" style="fill:rgb(80, 0, 175)">mmm</text>
+<text transform="translate(359,542)" font-size="68" style="fill:rgb(110, 145, 0)">gvar</text>
+<text transform="translate(735,581)" font-size="68" style="fill:rgb(190, 65, 0)">fitter</text>
+<text transform="translate(914,564)" font-size="68" style="fill:rgb(194, 0, 61)">UWerr</text>
+<text transform="translate(1,99)" font-size="68" style="fill:rgb(118, 0, 137)">dobs</text>
+<text transform="translate(526,578)" font-size="68" style="fill:rgb(252, 3, 0)">Adobs</text>
+<text transform="translate(75,596) rotate(-90)" font-size="68" style="fill:rgb(218, 37, 0)">corrfitter</text>
+<text transform="translate(906,317)" font-size="68" style="fill:rgb(218, 37, 0)">QDP</text>
+<text transform="translate(1167,230) rotate(-90)" font-size="68" style="fill:rgb(62, 193, 0)">hadron</text>
+<text transform="translate(218,267)" font-size="53" style="fill:rgb(178, 0, 77)">openQCD</text>
+<text transform="translate(1103,487)" font-size="53" style="fill:rgb(22, 0, 233)">sfcf</text>
+<text transform="translate(462,364)" font-size="53" style="fill:rgb(230, 25, 0)">Münster</text>
+<text transform="translate(1,148)" font-size="53" style="fill:rgb(118, 0, 137)">python</text>
+<text transform="translate(879,341)" font-size="47" style="fill:rgb(8, 247, 0)">pyerrors</text>
+<text transform="translate(244,38)" font-size="47" style="fill:rgb(62, 0, 193)">OpenQ</text>
+<text transform="translate(903,202)" font-size="47" style="fill:rgb(136, 119, 0)">D</text>
+<text transform="translate(216,403)" font-size="47" style="fill:rgb(60, 195, 0)">igit</text>
+<text transform="translate(286,548)" font-size="47" style="fill:rgb(34, 0, 221)">ific</text>
+<text transform="translate(358,344)" font-size="47" style="fill:rgb(200, 0, 55)">uv</text>
+<text transform="translate(1039,155)" font-size="47" style="fill:rgb(80, 175, 0)">es</text>
+<text transform="translate(342,308)" font-size="47" style="fill:rgb(40, 0, 215)">alramos</text>
+</svg>

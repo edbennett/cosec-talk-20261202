@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600">
+<style>text{font-family:'Futura';font-weight:normal;font-style:normal;}</style>
+<text transform="translate(15,279)" font-size="280" style="fill:rgb(118, 137, 0)">arXiv</text>
+<text transform="translate(343,466)" font-size="210" style="fill:rgb(222, 0, 33)">Zenodo</text>
+<text transform="translate(825,245)" font-size="140" style="fill:rgb(252, 3, 0)">Eudat</text>
+<text transform="translate(199,597) rotate(-90)" font-size="140" style="fill:rgb(122, 0, 133)">PRB</text>
+<text transform="translate(199,552)" font-size="99" style="fill:rgb(200, 55, 0)">supplementary</text>
+<text transform="translate(539,84)" font-size="99" style="fill:rgb(12, 243, 0)">ancillary</text>
+<text transform="translate(12,70)" font-size="99" style="fill:rgb(118, 137, 0)">past</text>
+<text transform="translate(989,572)" font-size="99" style="fill:rgb(160, 0, 95)">LDG</text>
+</svg>

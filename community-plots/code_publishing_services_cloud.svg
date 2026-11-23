@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600">
+<style>text{font-family:'Futura';font-weight:normal;font-style:normal;}</style>
+<text transform="translate(431,371)" font-size="214" style="fill:rgb(246, 0, 9)">GitHub</text>
+<text transform="translate(395,513)" font-size="134" style="fill:rgb(204, 51, 0)">gitlab</text>
+<text transform="translate(184,120)" font-size="134" style="fill:rgb(144, 111, 0)">bitbucket</text>
+<text transform="translate(152,575) rotate(-90)" font-size="134" style="fill:rgb(6, 0, 249)">Zenodo</text>
+<text transform="translate(973,500)" font-size="100" style="fill:rgb(92, 0, 163)">git</text>
+<text transform="translate(226,471)" font-size="100" style="fill:rgb(252, 0, 3)">hub</text>
+<text transform="translate(273,183)" font-size="77" style="fill:rgb(32, 223, 0)">Communication</text>
+</svg>

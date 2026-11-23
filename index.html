@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>Why should you care about reproducibility and open science?</title>
+		<title>Towards reproducible data analysis in lattice field theory</title>
 
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
@@ -18,13 +18,14 @@
 			<div class="slides">
 				<section>
 					<h2 style="padding-top: 30px;">
-						<span style="display:inline-block">Why should you care about reproducibility and open science?</span>
+						<span style="display:inline-block">Towards reproducible data analysis in lattice field theory</span>
 					</h2>
 					<h3>
 						Ed Bennett
 					</h3>
-					<p style="padding-top: 30px"><a href="https://indico.global/event/16372/overview">CCP-TEPP Summer School</a>, 2026-06-29</p>
-					<p>Slides: <a href="https://edbennett.github.io/ccp-tepp-open-science-20260629">https://edbennett.github.io/ccp-tepp-open-science-20260629</a> • <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a></p>
+					<p style="padding-top: 30px"><a href="https://indico.global/event/16372/overview">CoSeC Conference 2026</a>, 2026-12-02</p>
+					<p>Slides: <a href="https://edbennett.github.io/cosec-talk-20261202">https://edbennett.github.io/cosec-talk-20261202</a> • <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a><br />
+					    <span style="opacity: 50%; font-style: italic;">Press <span style="font-family: monospace; font-style: normal;">S</span> for speaker notes</span></p>
 					<div style="padding-top: 30px;">
 						<a href="https://www.swansea.ac.uk">
 							<img class="plain title-image" src='images/su-vstack-white.svg' alt="Swansea University logo">
@@ -35,14 +36,17 @@
 						<a href="https://stfc.ukri.org">
 							<img class="plain title-image" src='images/stfc.svg' alt="Science and Technologies Facilities Council">
 						</a>
+						<a href="https://ccp-tepp.github.io">
+							<img class="plain title-image" src="images/logo-colour-darkbg.svg" alt="CCP-TEPP">
+						</a>
 					</div>
 				</section>
 
-				<section data-markdown="slides/slides.md" data-separator="^\r?\n---\r?\n$" data-separator-vertical="^\r?\n-\r?\n$"> </section>
+				<section data-markdown="slides.md" data-separator="^\r?\n---\r?\n$" data-separator-vertical="^\r?\n-\r?\n$" data-separator-notes="^Notes:"> </section>
 				<section>
 					<h1>Thank you</h1>
 				</section>
-				<section data-markdown="slides/backup.md" data-separator="^\r?\n---\r?\n$" data-separator-vertical="^\r?\n-\r?\n$"> </section>
+				<section data-markdown="slides/backup.md" data-separator="^\r?\n---\r?\n$" data-separator-vertical="^\r?\n-\r?\n$" data-separator-notes="^Notes:"> </section>
 				</section>
 			</div>
 		</div>
@@ -62,7 +66,7 @@
 				height: 768,
 				//slideNumber: 'c/t',
 				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath ]
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX ]
 			});
 		</script>
 	</body>

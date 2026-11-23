@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600">
+<style>text{font-family:'Futura';font-weight:normal;font-style:normal;}</style>
+<text transform="translate(117,325)" font-size="221" style="fill:rgb(2, 253, 0)">Python</text>
+<text transform="translate(397,422)" font-size="172" style="fill:rgb(230, 25, 0)">numpy</text>
+<text transform="translate(787,223)" font-size="172" style="fill:rgb(58, 0, 197)">scipy</text>
+<text transform="translate(936,418)" font-size="120" style="fill:rgb(254, 0, 1)">GSL</text>
+<text transform="translate(37,106)" font-size="120" style="fill:rgb(216, 0, 39)">Mathematica</text>
+<text transform="translate(252,534)" font-size="120" style="fill:rgb(230, 25, 0)">gnuplot</text>
+<text transform="translate(810,546)" font-size="90" style="fill:rgb(32, 0, 223)">ADerrors</text>
+<text transform="translate(797,87)" font-size="90" style="fill:rgb(72, 0, 183)">jl</text>
+<text transform="translate(1,446)" font-size="55" style="fill:rgb(124, 0, 131)">autocorrelations</text>
+<text transform="translate(64,375) rotate(-90)" font-size="55" style="fill:rgb(226, 0, 29)">pandas</text>
+<text transform="translate(892,64)" font-size="55" style="fill:rgb(210, 45, 0)">PyTorch</text>
+<text transform="translate(24,490)" font-size="55" style="fill:rgb(202, 53, 0)">Bayesian</text>
+<text transform="translate(964,470)" font-size="55" style="fill:rgb(66, 0, 189)">Lepage</text>
+<text transform="translate(92,363)" font-size="55" style="fill:rgb(148, 107, 0)">gvar</text>
+<text transform="translate(490,179)" font-size="55" style="fill:rgb(102, 153, 0)">lsqfit</text>
+<text transform="translate(782,272)" font-size="55" style="fill:rgb(12, 243, 0)">tasks</text>
+<text transform="translate(634,180)" font-size="55" style="fill:rgb(68, 187, 0)">mmm</text>
+<text transform="translate(1070,92)" font-size="55" style="fill:rgb(140, 115, 0)">ncon</text>
+<text transform="translate(51,553)" font-size="55" style="fill:rgb(24, 231, 0)">jupyter</text>
+<text transform="translate(231,166)" font-size="55" style="fill:rgb(70, 0, 185)">linalg</text>
+<text transform="translate(605,571)" font-size="49" style="fill:rgb(172, 83, 0)">optimize</text>
+<text transform="translate(319,386)" font-size="49" style="fill:rgb(202, 0, 53)">jax</text>
+<text transform="translate(104,298) rotate(-90)" font-size="49" style="fill:rgb(72, 183, 0)">optimx</text>
+<text transform="translate(671,503)" font-size="49" style="fill:rgb(216, 0, 39)">optim</text>
+<text transform="translate(917,303)" font-size="43" style="fill:rgb(20, 235, 0)">interpolators</text>
+<text transform="translate(1017,566)" font-size="39" style="fill:rgb(134, 0, 121)">xmgrace</text>
+<text transform="translate(858,579)" font-size="39" style="fill:rgb(216, 0, 39)">tidyverse</text>
+<text transform="translate(687,34)" font-size="39" style="fill:rgb(228, 27, 0)">awk</text>
+<text transform="translate(410,31)" font-size="39" style="fill:rgb(52, 203, 0)">minuit</text>
+<text transform="translate(795,305)" font-size="39" style="fill:rgb(92, 163, 0)">MPFR</text>
+<text transform="translate(1035,126)" font-size="39" style="fill:rgb(30, 225, 0)">PRIMME</text>
+<text transform="translate(603,135)" font-size="33" style="fill:rgb(184, 71, 0)">eigensolver</text>
+<text transform="translate(108,404)" font-size="33" style="fill:rgb(68, 0, 187)">matlab</text>
+<text transform="translate(28,156) rotate(-90)" font-size="33" style="fill:rgb(218, 0, 37)">cernlib</text>
+<text transform="translate(463,453)" font-size="33" style="fill:rgb(2, 0, 253)">blas</text>
+<text transform="translate(111,137)" font-size="33" style="fill:rgb(212, 43, 0)">recipies</text>
+</svg>
