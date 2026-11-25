@@ -159,7 +159,7 @@ which is often described by no more than a few lines of narrative.
 
 -
 
-![Graph showing arXiv submissions that specify the software used specifically for data analysis; the vast majority do not](./plots/specifies_analysis_software.svg) <!-- .element width="1200px" -->
+![Graph showing arXiv submissions that specify the software used specifically for data analysis; the vast majority do not](./plots/specifies_analysis_software.svg) <!-- .element height="600px" -->
 
 &mdash;[EB, PoS LATTICE2022 (2023) 337](https://doi.org/10.22323/1.430.0337)
 
@@ -170,7 +170,7 @@ The vast majority of work does not specify what software was used for data analy
 
 -
 
-![Graph showing arXiv submissions that publish the analysis workflow for the results they present; almost all do not](./plots/publish_analysis_workflow.svg) <!-- .element width="1200px" -->
+![Graph showing arXiv submissions that publish the analysis workflow for the results they present; almost all do not](./plots/publish_analysis_workflow.svg) <!-- .element height="600px" -->
 
 &mdash;[EB, PoS LATTICE2022 (2023) 337](https://doi.org/10.22323/1.430.0337)
 
